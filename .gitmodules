@@ -1,0 +1,3 @@
+[submodule "cpp-light-game-engine-hades"]
+	path = cpp-light-game-engine-hades
+	url = https://github.com/nenuadrian/cpp-light-game-engine-hades.git
